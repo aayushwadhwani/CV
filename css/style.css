@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Almendra', serif;
+    color: #314e52;
+    /* font-family: 'Karla', sans-serif; for h3 */
+    font-size: 3em;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    background-color: #dddddd;
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+
+.middle-container{
+    background-color: #f7d9d9;
+    padding: 20px;
+    font-size: 2.5rem;
+}
+
+.last-container{
+    background-color: #ead3cb;
+    padding: 20px;
+}
+
+.aircraft-image{
+    position: absolute;
+    top: 50px;
+    right: 500px;
+    width: 200px;
+    height:90px;
+}
+.aircraft-image-left{
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    width: 200px;
+    height:90px;
+}
+
+.ordinary-day-image{
+    position: relative;
+    top: 30px;
+    margin-bottom: 50px;
+}
+
+.left-resumepic{
+    position: absolute;
+    width: 400px;
+    height: 150px;
+    top: 300px;
+    left: 120px;
+}
+
+.right-resumepic{
+    position: absolute;
+    width: 400px;
+    height: 150px;
+    right: 150px;
+    top: 300px;
+}
+
+.myname{
+    position: relative;
+    top: 20px;
+    right: 18px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    color: #314e52;
+}
+
+.after-myname{
+    position: relative;
+    top: 20px;
+    right: 18px;
+    font-size: 3.2rem;
+    color: #314e52; ;
+}
+
+.my-picture{
+    width: 400px;
+    height: 150px;
+}
+
+.skills-pic-left{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+}
+
+.skills-pic-right{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-left: 15px;
+}
+
+hr{
+    width: 3%;
+    height: 0;
+    border-style: dotted none none none;
+    border-width: 10px ;
+    margin-bottom: 0px;
+}
+
+.para-why{
+    font-size: 1.2rem;
+}
+
+.skills-row{
+    font-size: 2rem;
+    padding: 2px;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.skillsofh3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.quote{
+    font-family:'Great Vibes', cursive;
+    font-size: 2.2rem;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+.quote-image{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: 40%;
+    top: 60px;
+}
+
+.after-hello{
+    font-size: 1.5rem;
+}
+
+.after-myname{
+    font-weight: lighter;
+}
+
+.python{
+    margin-bottom: 0px;
+}
+
+.inside-middle-container{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    
+}
